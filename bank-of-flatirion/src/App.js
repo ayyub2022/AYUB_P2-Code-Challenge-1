@@ -10,25 +10,25 @@ import { useState } from 'react';
 function App() {
   const transaction = [
     {
-      date: "28/04/2024",
+      date: "17/09/2022",
         description: "Video Game",
         category: "Entertainment",
         amount: "Ksh 15,500"
     },
     {
-        date: "30/03/2024",
+        date: "10/05/2021",
         description: "Salary",
         category: "Deposit",
         amount: "Ksh 450,000"
     },
     {
-        date: "21/07/2023",
+        date: "21/03/2024",
         description: "BMW X5",
         category: "Expenditure",
         amount: "Ksh 2,500,000"
     },
     {
-        date: "23/12/2023",
+        date: "14/06/2020",
         description: "Kenya Railways",
         category: "Expenditure",
         amount: "Ksh 55,000"
