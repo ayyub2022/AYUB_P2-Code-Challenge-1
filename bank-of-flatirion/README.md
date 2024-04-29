@@ -21,7 +21,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/ayyub2022/phase-2-code-challenge-1.git
+Git clone https://github.com/ayyub2022/AYUB_P2-Code-Challenge-1.git
 ```
 
 ## Technologies used
